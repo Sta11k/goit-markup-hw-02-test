@@ -1,46 +1,46 @@
-body{
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-   color: #212121;
+body {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  color: #212121;
 }
 /* Maker LI KILED */
-li{
+li {
   list-style: none;
 }
 
 /* link-general */
-.link-general-top{
-background: #FFFFFF;
+.link-general-top {
+  background: #ffffff;
 }
 
-.logo{
+.logo {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
-  color:  #2196F3;
+  color: #2196f3;
 }
-.logo-end{
+.logo-end {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
-  color:  #000000;
+  color: #000000;
 }
-.logo-decor{
+.logo-decor {
   text-decoration: none;
 }
 
-.link-title-col{
+.link-title-col {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  color: #2196F3;
+  color: #2196f3;
 }
 
-.link-title-old{
+.link-title-old {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -49,56 +49,66 @@ background: #FFFFFF;
 
 /* contacts general link*/
 
-.link-mail{
+.link-mail {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  color: #2196F3;
+  color: #2196f3;
   text-decoration: none;
-
 }
 
-.link-phone{
+.link-phone {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   color: #757575;
 }
 /* Infirmation */
-.title-hero{
+.title-hero {
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   margin: 200px 450px 280px 450px;
 }
 
-.title-hero-section{
-  background-color:#2F303A;
- 
+.title-hero-section {
+  background-color: #2f303a;
 }
-
-.btn{
+/* Button HERO */
+.btn {
   width: 200px;
   height: 50px;
-  background: #2196F3;
+  background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
-}
-.btn-text-col{
   font-weight: bold;
   font-size: 16px;
   line-height: 30px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
+.btn:hover,
+.btn:focus,
+.btn:active {
+  background: #d8c5c5;
+  color: #bd1111;
+}
+
+/* .btn-text-col {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+} */
+
 /* Our advantage */
-.our-advatage h3{
+.our-advatage h3 {
   font-weight: bold;
   font-size: 14px;
   line-height: 16px;
   color: #212121;
 }
 
-.our-advatage p{
+.our-advatage p {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -107,42 +117,40 @@ background: #FFFFFF;
 
 /* <!-- Our work --> */
 
-.link-work>li{
+.link-work > li {
   display: inline;
   margin: 30px;
   text-align: center;
 }
 
- 
- /* <!-- Our team --> */
- 
- .title-work{
-   text-align: center;
-   font-weight: bold;
-   font-size: 36px;
-   line-height: 42px;
+/* <!-- Our team --> */
 
- }
-
- .title-team{
+.title-work {
   text-align: center;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px
+  line-height: 42px;
+}
+
+.title-team {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
 }
 
 /* our team */
-.title-team-name h3{
+.title-team-name h3 {
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
   color: #212121;
 }
-.title-team-name p{
+.title-team-name p {
   font-weight: normal;
   font-size: 16px;
   line-height: 19px;
-  color:#757575;;
+  color: #757575;
 }
 
 /* Contacs footer */
@@ -150,44 +158,39 @@ background: #FFFFFF;
 
 } */
 
-.foot-color-fonts{
-width: 1600px;
-background-color: #2F303A;
-
-
+.foot-color-fonts {
+  width: 1600px;
+  background-color: #2f303a;
 }
 
-.logo-footer-oll{
+.logo-footer-oll {
   text-decoration: none;
-
 }
-.logo-footer{
+.logo-footer {
   font-weight: bold;
   font-size: 26px;
   line-height: 31px;
-  color: #FFFFFF;
- }
-
-.title-ftr-adrs{
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: #FFFFFF;
+  color: #ffffff;
 }
 
-.link-mail-footer{
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: rgba(255, 255, 255, 0.6);
-text-decoration: none;
-
+.link-mail-footer {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 }
-.link-phone-footer{
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-color: rgba(255, 255, 255, 0.6);
-text-decoration: none;
+.link-phone-footer {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 }
-
+.adres-footer {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}
