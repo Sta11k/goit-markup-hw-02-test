@@ -1,0 +1,193 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+   color: #212121;
+}
+/* Maker LI KILED */
+li{
+  list-style: none;
+}
+
+/* link-general */
+.link-general-top{
+background: #FFFFFF;
+}
+
+.logo{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color:  #2196F3;
+}
+.logo-end{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color:  #000000;
+}
+.logo-decor{
+  text-decoration: none;
+}
+
+.link-title-col{
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2196F3;
+}
+
+.link-title-old{
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+
+/* contacts general link*/
+
+.link-mail{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2196F3;
+  text-decoration: none;
+
+}
+
+.link-phone{
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #757575;
+}
+/* Infirmation */
+.title-hero{
+  text-align: center;
+  color: #FFFFFF;
+  margin: 200px 450px 280px 450px;
+}
+
+.title-hero-section{
+  background-color:#2F303A;
+ 
+}
+
+.btn{
+  width: 200px;
+  height: 50px;
+  background: #2196F3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+.btn-text-col{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+/* Our advantage */
+.our-advatage h3{
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+
+.our-advatage p{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
+}
+
+/* <!-- Our work --> */
+
+.link-work>li{
+  display: inline;
+  margin: 30px;
+  text-align: center;
+}
+
+ 
+ /* <!-- Our team --> */
+ 
+ .title-work{
+   text-align: center;
+   font-weight: bold;
+   font-size: 36px;
+   line-height: 42px;
+
+ }
+
+ .title-team{
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px
+}
+
+/* our team */
+.title-team-name h3{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #212121;
+}
+.title-team-name p{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color:#757575;;
+}
+
+/* Contacs footer */
+/* .foot-color-fonts{
+
+} */
+
+.foot-color-fonts{
+width: 1600px;
+background-color: #2F303A;
+
+
+}
+
+.logo-footer-oll{
+  text-decoration: none;
+
+}
+.logo-footer{
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #FFFFFF;
+ }
+
+.title-ftr-adrs{
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.link-mail-footer{
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.6);
+text-decoration: none;
+
+}
+.link-phone-footer{
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.6);
+text-decoration: none;
+}
+
